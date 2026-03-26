@@ -2,7 +2,7 @@
 
 ## Overview
 
-Ein einfacher Datenlogger mit einem STM32 (Blue Pill).  
+Ein einfacher Datenlogger mit einem STM32 .  
 Das System misst Temperatur, Luftfeuchtigkeit und Luftdruck, speichert die Daten mit Zeitstempel und legt sie auf einer SD-Karte ab.
 
 Über die serielle Schnittstelle kann man Einstellungen während des Betriebs ändern.
