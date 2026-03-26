@@ -1,3 +1,5 @@
+// tempSensor 3231
+
 #include "ds3231.h"
 
 static I2C_HandleTypeDef *i2c_rtc;
