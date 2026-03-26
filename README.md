@@ -41,7 +41,4 @@ PA10     | -             | -           | RX
 
 
 
-# Projekt in STM32CubeIDE öffnen
-# Build & Flash
-# UART mit 115200 Baud verbinden
-# SD-Karte (FAT32) einstecken
+
