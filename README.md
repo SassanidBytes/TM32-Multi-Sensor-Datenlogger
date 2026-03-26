@@ -38,7 +38,3 @@ PA6      | -             | MISO        | -
 PA7      | -             | MOSI        | -
 PA9      | -             | -           | TX
 PA10     | -             | -           | RX
-
-
-
-
