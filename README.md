@@ -38,3 +38,10 @@ PA6      | -             | MISO        | -
 PA7      | -             | MOSI        | -
 PA9      | -             | -           | TX
 PA10     | -             | -           | RX
+
+
+
+# Projekt in STM32CubeIDE öffnen
+# Build & Flash
+# UART mit 115200 Baud verbinden
+# SD-Karte (FAT32) einstecken
