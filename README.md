@@ -2,10 +2,8 @@
 
 ## Overview
 
-Ein einfacher Datenlogger mit einem STM32 .  
-Das System misst Temperatur, Luftfeuchtigkeit und Luftdruck, speichert die Daten mit Zeitstempel und legt sie auf einer SD-Karte ab.
-
-Über die serielle Schnittstelle kann man Einstellungen während des Betriebs ändern.
+Entwicklung eines modularen Embedded-Datenloggers auf Basis eines STM32-Mikrocontrollers zur kontinuierlichen Erfassung und Speicherung von Umweltdaten (Temperatur, Luftfeuchtigkeit, Luftdruck).
+Das System integriert mehrere Sensoren, ein Echtzeitmodul sowie ein Dateisystem und ermöglicht eine flexible Konfiguration zur Laufzeit über eine serielle Schnittstelle.
 
 ## Technologies
 
